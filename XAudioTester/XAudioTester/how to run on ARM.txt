@@ -1,0 +1,5 @@
+﻿open the XAudioPlayer properties
+click configuration manager
+for both projects (XAudioPlayer and XAudioTester) choose ARM as platform.
+
+NOTE: to deploy the app in the store, you need to create x86 and ARM packages.
